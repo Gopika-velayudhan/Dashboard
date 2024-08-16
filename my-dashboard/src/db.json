@@ -1,0 +1,32 @@
+{
+    "dashboard": {
+      "totalBalance": 20670,
+      "income": {
+        "currentMonth": 1060,
+        "previousMonth": 980
+      },
+      "cards": [
+        {
+          "name": "VISA",
+          "balance": 2981,
+          "last4": "1777"
+        }
+        
+      ],
+      "currenciesMarket": [
+        {
+          "name": "USD",
+          "rate": 105.27,
+          "change": 14.4
+          
+        },
+        {
+          "name": "EUR",
+          "rate": 1.0656,
+          "change": -0.67
+        }
+      ],
+      "expenses": 2760
+    }
+  }
+  
